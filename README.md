@@ -21,10 +21,11 @@
 <br />
 <br />
 
-I'm a Full Stack Developer with 2+ years of hands-on experience designing, developing and implementing applications and solutions using a range of technologies and programming languages.
+I'm a Computer's Science Student(2nd Year) & Currently pursuing my Bachelor's Degree from LOVELY PROFESSTIONAL UNIVERSITY(Punjab,India). I am quite good at DS-ALGO And Also quite compatible with c,c++,java,python,java-script,etc. And I want to pursue my career in Android Development
 <br />
 
-I'm currently based in Ben Guerir, Morocco.
+I'm currently based in Hyderbad, Telangana.
+Studying in Punjab.
 
 <br />
 I love learning new techs and using new tools. I also love drinking Atay (Tea in Ar - Morocco) while coding.
