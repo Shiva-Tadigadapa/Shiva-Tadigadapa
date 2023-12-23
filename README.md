@@ -64,7 +64,7 @@
 <hr>
 
 ### 📊 GitHub Stats:
-<!--[[SaiAdithya3's github stats](https://github-readme-stats.vercel.app/api?username=Shiva-Tadigadapa&show_icons=true&theme=dracula&count_private=true&include_all_commits=true&hide=contribs,issues,stars)](url)-->
+<!--[[Shiva-Tadigadapa's github stats](https://github-readme-stats.vercel.app/api?username=Shiva-Tadigadapa&show_icons=true&theme=dracula&count_private=true&include_all_commits=true&hide=contribs,issues,stars)](url)-->
 
 
 
@@ -72,7 +72,7 @@
 
 <p align="center">
           <a href="https://github.com/Shiva-Tadigadapa/">
-          <img width="45%" hspace="10" src="https://github-readme-stats.vercel.app/api?username=Shiva-Tadigadapa3&show_icons=true&theme=gruvbox&hide_border=true" />
+          <img width="45%" hspace="10" src="https://github-readme-stats.vercel.app/api?username=Shiva-Tadigadapa&show_icons=true&theme=gruvbox&hide_border=true" />
           <img width="48%" hspace="10" src="https://github-readme-streak-stats.herokuapp.com/?user=Shiva-Tadigadapa&theme=gruvbox&hide_border=true" />
           </a>
        </p>
