@@ -1,91 +1,105 @@
+<img src="https://github.com/SaiAdithya3/SaiAdithya3/blob/main/banner.png" alt="banner" />
+
+<p align="center">
+<a href="https://saiadithya.netlify.app"><img src="https://img.shields.io/badge/-saiadithya.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://linkedin.com/in/ksaiadithya"><img src="https://img.shields.io/badge/-Sai%20Adithya%20K-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:saiadithyakancharla@gmail.com"><img src="https://img.shields.io/badge/-saiadithyakancharla@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://instagram.com/sai_.adithya"><img src="https://img.shields.io/badge/-@sai_.adithya-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://twitter.com/in/SaiAdithya39"><img src="https://img.shields.io/badge/-SaiAdithya39-0077B5?style=flat&logo=Twitter&logoColor=white"/></a>
+</p>
+
+
 <div align="center">
-<h2> Hi There, Welcome to my Github profile! <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30"></h2>
-<a href="https://www.linkedin.com/in/tbalashiva/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-
-</a>
-<a href="https://github.com/Shiva-Tadigadapa" target="_blank">
-<img src=https://img.shields.io/badge/github-%ff5851db.svg?color=C13584&style=for-the-badge&logo=github&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>
-<a href="https://twitter.com/" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%ff5851db.svg?color=405DE6&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="mailto:shivatadigadapa@gmail.com" target="_blank">
-<img src=https://img.shields.io/badge/mail-%ff5851db.svg?color=C13584&style=for-the-badge&logo=mail&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>
-
-<br />
-<br />
-
-<br />
-<br />
-
-I'm a Computer's Science Student(2nd Year) & Currently pursuing my Bachelor's Degree from LOVELY PROFESSTIONAL UNIVERSITY(Punjab,India). I am quite good at DS-ALGO And Also quite compatible with c,c++,java,python,java-script,etc. And I want to pursue my career in Android Development
-<br />
-
-I'm currently based in Hyderbad, Telangana.
-Studying in Punjab.
-
-<br />
-I love learning new techs and using new tools. I also love drinking Atay (Tea in Ar - Morocco) while coding.
-<br />
-<br />
-
-Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better.<br />
-Ask me anything **[here](https://github.com/Shiva-Tadigadapa/Shiva-Tadigadapa/issues/new)** or <a href="mailto:shivatadigadapa@gmail.com"><b>send me an email</b></a>.
-<br />
-<br />
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Shiva-Tadigadapa&include_all_commits=true&count_private=true&show_icons=true&line_height=30&title_color=CDB4DB&icon_color=CDB4DB&text_color=D3D3D3&bg_color=0A0A0A" alt="Shiva Tadigadapa Github Stats">
-<br />
-<br />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shiva-Tadigadapa&layout=compact&theme=dark&bg_color=0A0A0A" alt="Shiva Tadigadapa Top Languages"/>
-<br/>
-<br />
-<img height="190" src="https://github-readme-streak-stats.herokuapp.com/?user=Shiva-Tadigadapa&layout=compact&theme=dark">
-<br />
-<br/>
-<img src="https://activity-graph.herokuapp.com/graph?username=Shiva-Tadigadapa&theme=github">
-<br />
-<br />
-
-**Happy Coding!** 😊
-
+  
+<!-- <h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Adithya</h1> -->
+<!-- <h4 align="center">a freelance developer and also an engineering student from India, see my <a href="https://linkedin.com/in/ksaiadithya" target="_blank">LinkedIn</a> for more</h4> -->
 </div>
 
 <div align="center">
-
-## Tech Stack
-
-<br />
-<a margin="10" href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img margin="10px" height="40" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/html.svg" alt="html"></a>
-<a margin="10" href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img margin="10px" height="40" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/css.svg" alt="css"></a>
-<a margin="10" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img margin="10px" height="40" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/javascript.svg" alt="javascript"></a>
-<a margin="10" href="https://getbootstrap.com" target="_blank"><img margin="10px" height="40" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/bootstrap.svg" alt="bootstrap"></a>
-<a margin="10" href="https://tailwindcss.com" target="_blank"><img margin="10px" height="40" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/tailwind.svg" alt="tailwind"></a>
-<a margin="10" href="https://sass-lang.com" target="_blank"><img margin="10px" height="40" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/sass.svg" alt="sass"></a>
-<br />
-<br />
-<a margin="10" href="https://mui.com" target="_blank"><img margin="10px" height="40" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/materialui.svg" alt="material ui"></a>
-<a margin="10" href="https://figma.com" target="_blank"><img margin="10px" height="40" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/figma.svg" alt="figma"></a>
-<a margin="10" href="https://reactjs.org" target="_blank"><img margin="10px" height="40" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/react.svg" alt="react"></a>
-
-<br />
-<br />
-<a margin="10" href="https://nodejs.org" target="_blank"><img margin="10px" height="40" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/nodejs.svg" alt="nodejs"></a>
-<a margin="10" href="https://firebase.google.com" target="_blank"><img margin="10px" height="40" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/firebase.svg" alt="firebase"></a>
-<a margin="10" href="https://mongodb.com" target="_blank"><img margin="10px" height="40" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/mongodb.svg" alt="mongodb"></a>
-<a margin="10" href="https://devdocs.io/c/" target="_blank"><img margin="10px" height="40" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/c.svg" alt="c programming"></a>
-<a margin="10" href="https://www.ruby-lang.org" target="_blank"><img margin="10px" height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" alt="ruby"></a>
-<a margin="10" href="https://www.jetbrains.com/youtrack/" target="_blank"><img margin="10px" height="40" src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png" alt="yourtrack"></a>
-<a margin="10" href="https://www.jetbrains.com/youtrack/" target="_blank"><img margin="10px" height="40" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Android_Studio_Icon_3.6.svg" alt="yourtrack"></a>
-<br />
-
+  <a href="https://github.com/SaiAdithya3">
+  <img  src="https://github.com/SaiAdithya3/SaiAdithya3/blob/main/grid-snake.svg"
+       alt="snake" /></a>
 </div>
 <br />
+
+<hr>
+<p align="center">
+<img src="https://github.com/SaiAdithya3/SaiAdithya3/blob/main/tools.png" width="40%" />
+</p>
+  
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E)
+![Next JS](https://img.shields.io/badge/Next-black?style=plastic&logo=next.js&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white)
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=plastic&logo=vite&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=plastic&logo=graphql&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=plastic&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=plastic&logo=redis&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase)
+![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=plastic&logo=solidity&logoColor=white)
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=plastic&logo=Ethereum&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=plastic&logo=npm&logoColor=white)
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=plastic&logo=redux&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-black?style=plastic&logo=socket.io&badgeColor=010101)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white)
+![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=plastic&logo=heroku&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=plastic&logo=netlify&logoColor=#00C7B7)
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=plastic&logo=Prisma&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black)
+
+<br />
+<hr>
+
+### 📊 GitHub Stats:
+<!--[[SaiAdithya3's github stats](https://github-readme-stats.vercel.app/api?username=SaiAdithya3&show_icons=true&theme=dracula&count_private=true&include_all_commits=true&hide=contribs,issues,stars)](url)-->
+
+
+
+
+
+<p align="center">
+          <a href="https://github.com/SaiAdithya3/">
+          <img width="45%" hspace="10" src="https://github-readme-stats.vercel.app/api?username=SaiAdithya3&show_icons=true&theme=gruvbox&hide_border=true" />
+          <img width="48%" hspace="10" src="https://github-readme-streak-stats.herokuapp.com/?user=SaiAdithya3&theme=gruvbox&hide_border=true" />
+          </a>
+       </p>
+       
+
+
+[website]: https://saiadithya3.github.io/portfolio-website/
+[linkedin]: https://www.linkedin.com/in/ksaiadithya/
+[instagram]: https://www.instagram.com/sai_.adithya/
+[twitter]: https://twitter.com/SaiAdithya39/
+[facebook]: https://www.facebook.com/sai.adithya.1401/
+[github]: https://github.com/SaiAdithya3/
+
+
+
+
+<br />
 <br />
 
-<div align="center">
-<img src="https://profile-counter.glitch.me/Shiva-Tadigadapa/count.svg" />
-<br />
+
+
+<div>
+  <a href="https://www.holopin.io/@saiadithya3"><img width="65%" src="https://holopin.io/api/user/board?user=saiadithya3" hspace="10"></a> 
+  <img  src="https://github.com/SaiAdithya3/SaiAdithya3/blob/main/porsche.jpg" alt="porsche" width="30%" />
+</div>
+</br>
+
+<p align="center"> 
+<img src="https://profile-counter.glitch.me/SaiAdithya3/count.svg" />
+</p>
