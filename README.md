@@ -1,11 +1,11 @@
 <img src="https://github.com/SaiAdithya3/SaiAdithya3/blob/main/banner.png" alt="banner" />
 
 <p align="center">
-<a href="https://saiadithya.netlify.app"><img src="https://img.shields.io/badge/-saiadithya.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
-<a href="https://linkedin.com/in/ksaiadithya"><img src="https://img.shields.io/badge/-Sai%20Adithya%20K-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:saiadithyakancharla@gmail.com"><img src="https://img.shields.io/badge/-saiadithyakancharla@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://instagram.com/sai_.adithya"><img src="https://img.shields.io/badge/-@sai_.adithya-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://twitter.com/in/SaiAdithya39"><img src="https://img.shields.io/badge/-SaiAdithya39-0077B5?style=flat&logo=Twitter&logoColor=white"/></a>
+<a href="https://https://bento.me/shx"><img src="https://img.shields.io/badge/-shx.com.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://linkedin.com/in/tbalashiva"><img src="https://img.shields.io/badge/-Bala%20Shiva%20T-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:shivatadigadapa@gmail.com@gmail.com"><img src="https://img.shields.io/badge/-shivatadigadapa@gmail.com@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href=""><img src="https://img.shields.io/badge/-@None-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href=""><img src="https://img.shields.io/badge/-Shiva-None-0077B5?style=flat&logo=Twitter&logoColor=white"/></a>
 </p>
 
 
@@ -16,15 +16,15 @@
 </div>
 
 <div align="center">
-  <a href="https://github.com/SaiAdithya3">
-  <img  src="https://github.com/SaiAdithya3/SaiAdithya3/blob/main/grid-snake.svg"
+  <a href="https://github.com/Shiva-Tadigadapa">
+  <img  src="https://github.com/Shiva-Tadigadapa/Shiva-Tadigadapa/blob/main/grid-snake.svg"
        alt="snake" /></a>
 </div>
 <br />
 
 <hr>
 <p align="center">
-<img src="https://github.com/SaiAdithya3/SaiAdithya3/blob/main/tools.png" width="40%" />
+<img src="https://github.com/Shiva-Tadigadapa/Shiva-Tadigadapa/blob/main/tools.png" width="40%" />
 </p>
   
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E)
@@ -64,27 +64,27 @@
 <hr>
 
 ### 📊 GitHub Stats:
-<!--[[SaiAdithya3's github stats](https://github-readme-stats.vercel.app/api?username=SaiAdithya3&show_icons=true&theme=dracula&count_private=true&include_all_commits=true&hide=contribs,issues,stars)](url)-->
+<!--[[SaiAdithya3's github stats](https://github-readme-stats.vercel.app/api?username=Shiva-Tadigadapa3&show_icons=true&theme=dracula&count_private=true&include_all_commits=true&hide=contribs,issues,stars)](url)-->
 
 
 
 
 
 <p align="center">
-          <a href="https://github.com/SaiAdithya3/">
-          <img width="45%" hspace="10" src="https://github-readme-stats.vercel.app/api?username=SaiAdithya3&show_icons=true&theme=gruvbox&hide_border=true" />
-          <img width="48%" hspace="10" src="https://github-readme-streak-stats.herokuapp.com/?user=SaiAdithya3&theme=gruvbox&hide_border=true" />
+          <a href="https://github.com/Shiva-Tadigadapa/">
+          <img width="45%" hspace="10" src="https://github-readme-stats.vercel.app/api?username=Shiva-Tadigadapa3&show_icons=true&theme=gruvbox&hide_border=true" />
+          <img width="48%" hspace="10" src="https://github-readme-streak-stats.herokuapp.com/?user=Shiva-Tadigadapa&theme=gruvbox&hide_border=true" />
           </a>
        </p>
        
 
 
-[website]: https://saiadithya3.github.io/portfolio-website/
-[linkedin]: https://www.linkedin.com/in/ksaiadithya/
-[instagram]: https://www.instagram.com/sai_.adithya/
-[twitter]: https://twitter.com/SaiAdithya39/
-[facebook]: https://www.facebook.com/sai.adithya.1401/
-[github]: https://github.com/SaiAdithya3/
+[website]: https://bento.me/shx
+[linkedin]: https://www.linkedin.com/in/tbalashiva/
+[instagram]: https://www.instagram.com
+[twitter]: https://twitter.com/
+[facebook]: https://www.facebook.com/
+[github]: https://github.com/Shiva-Tadigadapa/
 
 
 
