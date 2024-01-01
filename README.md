@@ -8,7 +8,7 @@
 <a href=""><img src="https://img.shields.io/badge/-Shiva-None-0077B5?style=flat&logo=Twitter&logoColor=white"/></a>
 </p>
 
-
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Shiva-Tadigadapa)](https://github.com/anuraghazra/github-readme-stats)
 <div align="center">
   
 <!-- <h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Adithya</h1> -->
