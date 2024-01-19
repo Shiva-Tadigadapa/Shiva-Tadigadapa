@@ -1,4 +1,4 @@
-<img src="https://github.com/SaiAdithya3/SaiAdithya3/blob/main/banner.png" alt="banner" />
+
 
 <p align="center">
 <a href="https://https://bento.me/shx"><img src="https://img.shields.io/badge/-shx.com.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
