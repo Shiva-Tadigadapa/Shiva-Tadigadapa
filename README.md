@@ -1,7 +1,7 @@
 
 
 <p align="center">
-<a href="https://balashiva.co"><img src="https://img.shields.io/badge/-shx.com.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://balashiva.co"><img src="https://img.shields.io/badge/-balashiva.co-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
 <a href="https://linkedin.com/in/tbalashiva"><img src="https://img.shields.io/badge/-Bala%20Shiva%20T-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:shivatadigadapa@gmail.com@gmail.com"><img src="https://img.shields.io/badge/-shivatadigadapa@gmail.com@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
