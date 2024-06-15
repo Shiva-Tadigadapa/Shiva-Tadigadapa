@@ -1,24 +1,10 @@
 
 
 <p align="center">
-<a href="https://https://bento.me/shx"><img src="https://img.shields.io/badge/-shx.com.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://balashiva.co"><img src="https://img.shields.io/badge/-shx.com.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
 <a href="https://linkedin.com/in/tbalashiva"><img src="https://img.shields.io/badge/-Bala%20Shiva%20T-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:shivatadigadapa@gmail.com@gmail.com"><img src="https://img.shields.io/badge/-shivatadigadapa@gmail.com@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href=""><img src="https://img.shields.io/badge/-@None-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href=""><img src="https://img.shields.io/badge/-Shiva-None-0077B5?style=flat&logo=Twitter&logoColor=white"/></a>
 </p>
-
-<div align="center">
-  
-<!-- <h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Adithya</h1> -->
-<!-- <h4 align="center">a freelance developer and also an engineering student from India, see my <a href="https://linkedin.com/in/ksaiadithya" target="_blank">LinkedIn</a> for more</h4> -->
-</div>
-
-<div align="center">
-  <a href="https://github.com/Shiva-Tadigadapa">
-  <img  src="https://github.com/Shiva-Tadigadapa/Shiva-Tadigadapa/blob/main/grid-snake.svg"
-       alt="snake" /></a>
-</div>
 <br />
 
 <hr>
@@ -78,11 +64,8 @@
        
 
 
-[website]: https://bento.me/shx
+[website]: https://balashiva.co
 [linkedin]: https://www.linkedin.com/in/tbalashiva/
-[instagram]: https://www.instagram.com
-[twitter]: https://twitter.com/
-[facebook]: https://www.facebook.com/
 [github]: https://github.com/Shiva-Tadigadapa/
 
 
@@ -95,7 +78,6 @@
 
 <div>
   <a href="https://www.holopin.io/@saiadithya3"><img width="65%" src="https://holopin.io/api/user/board?user=saiadithya3" hspace="10"></a> 
-  <img  src="https://github.com/SaiAdithya3/SaiAdithya3/blob/main/porsche.jpg" alt="porsche" width="30%" />
 </div>
 </br>
 
